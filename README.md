@@ -1,3 +1,10 @@
+#Code Style
+
+[@NYTimes/objective-c-style-guide](https://github.com/NYTimes/objective-c-style-guide)
+
+===
+
+#Git
 ##New Project
 
 * Estimate meeting
@@ -15,11 +22,14 @@
 
 ##New Story
 
+* `pivotaltracker`Update Story to `Start`
 * Create branch for story
 * Implement
 * Push branch to remote
+* Merge latest `dev` to your current branch, make sure no conflict.
 * Create pullRequest
 * Write implementation detail(See detail form)
+* `pivotaltracker`Update Story to `Finish`
 
 ##New PullRequest
 
@@ -28,6 +38,7 @@
 * Confirm changes
 * Merge branch to `dev`
 * Delete remote branch
+* `pivotaltracker`Update Story to `Deliver`
   
 @Requester (when branch has been merged)
 
