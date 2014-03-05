@@ -20,6 +20,7 @@ The method name and comment should tell you the informations you need.
 * Those methods or properties you wish others to use should be declared at headerfile`.h`.
 * Those methods you don't want others know should declared at Class extension in implementfile`.m`.
 
+
 ===
 
 #Git
