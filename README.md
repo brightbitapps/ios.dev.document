@@ -74,13 +74,10 @@ The method name and comment should tell you the informations you need.
 ##Detail Form
 
 	Purpose:
-		/* To help reviewer get brief of this story. */
-		 - 
+	 - /* To help reviewer get brief of this story. */
 		 
 	Description:
-		/* Describe implementation to make code-review easier. */
-		 - 
-		 
+	 - /* Describe implementation to make code-review easier. */
+ 
 	Todo:
-		/* List todo or enhancement points. */
-		 - 
+	 - /* List todo or enhancement points. */
