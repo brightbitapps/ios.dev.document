@@ -75,7 +75,12 @@ The method name and comment should tell you the informations you need.
 
 	Purpose:
 		/* To help reviewer get brief of this story. */
+		 - 
+		 
 	Description:
 		/* Describe implementation to make code-review easier. */
+		 - 
+		 
 	Todo:
 		/* List todo or enhancement points. */
+		 - 
